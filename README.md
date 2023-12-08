@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ahmadsyahrullft9
-- 👀 I’m interested in android development
+- 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning mobile programming native and hybrid
